@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-image: url('https://www.google.com/imgres?q=very%20light%20cooking%20photos&imgurl=https%3A%2F%2Fwww.euronics.ee%2FUserFiles%2FProducts%2FImages%2F396893-597498-medium.png&imgrefurl=https%3A%2F%2Fwww.euronics.ee%2Fen%2Fkitchen%2Faccessories%2Fpots-and-pans%2Fh0564642%2Ftefal-so-light-24-cm-stewpot-with-lid&docid=pj_bhIPMj7NwxM&tbnid=Xpfnt0WvQVe82M&vet=12ahUKEwj7-o2wlO6JAxWY3QIHHfm3LbwQM3oECDAQAA..i&w=305&h=305&hcb=2&ved=2ahUKEwj7-o2wlO6JAxWY3QIHHfm3LbwQM3oECDAQAA.jpg'); 
+    background-size: cover; 
+    background-attachment: fixed;
+    background-repeat: repeat; 
+}
+
+header {
+    background: #f1eded;
+    color: #ffffff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: circle;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #c5b1b1;
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.gallery img {
+    width: 200px;
+    margin: 10px;
+    border: 2px solid #ccc;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333333;
+    color: #131212;
+}
